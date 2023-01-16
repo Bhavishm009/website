@@ -8,9 +8,7 @@ const About = () => (
       <h1 className="about-title" style={{ fontWeight: "630" }}>
         About
       </h1>
-      <p className="about-text">
-                
-      </p>
+      <p className="about-text"></p>
       <br />
       <img
         className="Drake-photo"
